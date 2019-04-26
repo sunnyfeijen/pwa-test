@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "bento-starter"
+    "default": "bento-starter",
+    "pwa-test": "pwa-test-758dc"
   }
 }
